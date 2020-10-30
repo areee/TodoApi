@@ -1,0 +1,8 @@
+PUT https://localhost:5001/api/TodoItems/1
+content-type: application/json
+
+{
+    "id": 1,
+    "name": "feed fish",
+    "isComplete": false
+}

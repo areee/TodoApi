@@ -1,0 +1,7 @@
+POST https://localhost:5001/api/TodoItems
+content-type: application/json
+
+{
+    "name": "eat food",
+    "isComplete": false
+}
